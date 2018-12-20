@@ -1,0 +1,21 @@
+{
+  "name": "komikcast-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "komikcast-downloader": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.0.0",
+    "request": "^2.88.0",
+    "unirest": "^0.5.1",
+    "x-ray": "^2.3.3"
+  }
+}
