@@ -1,6 +1,6 @@
 {
   "name": "komikcast-downloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cara mudah download manga di komikcast",
   "main": "index.js",
   "bin": {
