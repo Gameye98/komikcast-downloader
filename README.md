@@ -3,7 +3,7 @@ Untuk mempermudah download manga di komikcast
 
 # Instalasi
 ```
-npm i komikcast-downloader
+npm i -g komikcast-downloader
 ```
 
 # Cara pakai
