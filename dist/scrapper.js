@@ -2,7 +2,6 @@ const fs = require('fs');
 const request = require('request').defaults({
   forever: true
 });
-const unirest = require('unirest');
 const xray = require('x-ray');
 const scrapper = xray();
 

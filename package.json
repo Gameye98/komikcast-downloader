@@ -15,7 +15,6 @@
   "dependencies": {
     "prompts": "^2.0.0",
     "request": "^2.88.0",
-    "unirest": "^0.5.1",
     "x-ray": "^2.3.3"
   }
 }
